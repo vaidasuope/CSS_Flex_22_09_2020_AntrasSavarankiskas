@@ -1,0 +1,147 @@
+body {
+	font-family: "Comic Sans MS";
+}
+.maketas {
+	display: flex;
+	flex-direction: column;
+}
+.paragrafas {
+	margin-top: -15px;
+	color: darkgrey;
+}
+.dezes {
+	margin-top: -15px;
+	line-break: auto;
+}
+h4 {
+	margin-top: -2px;
+}
+img {
+	height: 25px;
+	width: 25px;
+	padding: 0 5px;
+}
+.text {
+	padding: 5px;
+}
+
+.pavadinimas1 {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+}
+.dezutes1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.deze1 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	margin-right: 20px;
+	padding: 10px;
+	width: 30%;
+}
+.deze2 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	margin-right: 20px;
+	padding: 10px;
+	width: 30%;
+}
+.deze3 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	padding: 10px;
+	width: 30%;
+}
+.pavadinimas2 {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+}
+.dezutes2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.deze4 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	margin-right: 20px;
+	padding: 10px;
+	width: 30%;
+}
+.deze5 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	margin-right: 20px;
+	padding: 10px;
+	width: 30%;
+}
+.deze6 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	padding: 10px;
+	width: 30%;
+}
+.pavadinimas3 {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+}
+.dezutes3 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.deze7 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	margin-right: 20px;
+	padding: 10px;
+	width: 30%;
+}
+.deze8 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	margin-right: 20px;
+	padding: 10px;
+	width: 30%;
+}
+.deze9 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	height: 110px;
+	padding: 10px;
+	width: 30%;
+}
